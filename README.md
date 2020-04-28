@@ -1,0 +1,2 @@
+# jobOffersJava
+Task for workshop.
