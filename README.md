@@ -1,6 +1,6 @@
 # jobOffersJava
 Task for workshop.
-Java Practical Exercise
+Java Practical Exercise- SWING GUI
 
 Име на проекта: Job Offers
 Език: Java
